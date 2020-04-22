@@ -25,3 +25,10 @@ setImmediate(()=>{
 })
 
 console.log('正常')
+
+// 正常
+// nextTick1
+// nextTick2
+// setImmediate1
+// setImmediate2
+// 强势插入
